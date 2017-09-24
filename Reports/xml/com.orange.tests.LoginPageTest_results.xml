@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test1"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="21.604">
+  <properties />
+  
+  
+            <testcase name="successfullyLogin" time="15.766" classname="com.orange.tests.LoginPageTest" />
+                <testcase name="loginWithBlankUsername" time="1.090" classname="com.orange.tests.LoginPageTest" />
+                <testcase name="loginWithInvalidPassword" time="2.010" classname="com.orange.tests.LoginPageTest" />
+                <testcase name="loginWithBlankPassword" time="1.733" classname="com.orange.tests.LoginPageTest" />
+                <testcase name="loginWithBlankUNPW" time="1.005" classname="com.orange.tests.LoginPageTest" />
+      
+</testsuite>
